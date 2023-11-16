@@ -1,0 +1,11 @@
+/* ResizableReorderableTable.css */
+
+/* Add background color to the table */
+Table {
+  background-color: #FFEBD8; /* You can choose your preferred color */
+}
+
+/* Add background color to the header row */
+Table thead th {
+  background-color: #FFE3BB; /* You can choose your preferred color */
+}
